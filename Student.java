@@ -45,7 +45,7 @@ public class Student {
 	  int sum=addition.apply(11, 5);
 	  System.out.println("addition of two numbers is:" + sum);
 	  
-	  // I am commenting here
+	 
 	  
 	}
 
