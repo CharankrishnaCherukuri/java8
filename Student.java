@@ -2,7 +2,7 @@ package com.bct.java8gfeautres.methodreferences;
 
 import java.util.function.BiFunction;
 
-
+// iam commenting
 interface MyInterface{
 	//A method ---abstract method
 	public void display();
